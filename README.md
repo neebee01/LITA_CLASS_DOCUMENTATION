@@ -1,11 +1,11 @@
 # LITA_CLASS_DOCUMENTATION
 
-RROJECT TITLE : Excel Interface and Navigation
+### RROJECT TITLE : Excel Interface and Navigation
 
-Description: A comprehensive guide to understanding the Excel interface and navigating its features.
+### Description: A comprehensive guide to understanding the Excel interface and navigating its features.
 
 
-Table of Contents:
+### Table of Contents:
 
 
 1. Excel Interface Overview
@@ -16,12 +16,11 @@ Table of Contents:
 6. Formula Bar 
 7. PivotTables and Charts
 8. Shortcuts and Keyboard Navigation
+   
+ Excel Interface Overview:
 
 
-*Excel Interface Overview:*
-
-
-- The Excel interface consists of:
+-  The Excel interface consists of:
     - Ribbon
     - Toolbars
     - Worksheet area
@@ -29,7 +28,7 @@ Table of Contents:
     - Status bar
 
 
-*Ribbon and Tabs:*
+ Ribbon and Tabs
 
 
 - The Ribbon is divided into tabs:
