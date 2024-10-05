@@ -1,6 +1,6 @@
 # LITA_CLASS_DOCUMENTATION
 
-*Repository Name: Excel Interface and Navigation
+RROJECT TITLE : Excel Interface and Navigation
 
 Description: A comprehensive guide to understanding the Excel interface and navigating its features.
 
