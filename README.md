@@ -1,13 +1,11 @@
 # LITA_CLASS_DOCUMENTATION
-THIS IS WHERE I WILL DOCUMENT MY FIRST PROJECT WHILE LEARNING DATA ANALYSIS WITH THE INCUBATOR HUB
 
-*Repository Name:* Excel Interface and Navigation
+*Repository Name: Excel Interface and Navigation
 
-
-*Description:* A comprehensive guide to understanding the Excel interface and navigating its features.
+Description: A comprehensive guide to understanding the Excel interface and navigating its features.
 
 
-*Table of Contents:*
+Table of Contents:
 
 
 1. Excel Interface Overview
